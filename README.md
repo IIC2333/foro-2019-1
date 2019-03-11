@@ -4,7 +4,7 @@
 
 Esta plataforma tendrá por objetivo **solo servir como el foro del curso**. Existirán distintas etiquetas para que puedan catalogar sus dudas y que puedan ser respondidas en el menor tiempo posible.
 
-Las respuestas serán otorgadas por el equipo según especialidad:
+Sus preguntas serán respondidas por el equipo según especialidad y característica de la pregunta:
 
 * Dudas de tareas/proyecto de Sistemas Operativos: Germán Contreras, Ricardo Schilling
 * Dudas de tareas/proyecto de Redes: Lukas Svicarovic, Kevin Johnson
